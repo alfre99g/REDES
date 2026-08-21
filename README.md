@@ -25,7 +25,7 @@ Ejercicios y laboratorios para practicar conceptos de CCNA.
 
 ## 👨‍💻 Autor
 **Alfredo García**
-[Enlace a LinkedIn]
+[www.linkedin.com/in/alfredo-garcia-mamani-884727267]
 
 ## 📌 Estado
 ✅ Activo - En desarrollo continuo
